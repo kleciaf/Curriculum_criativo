@@ -1,0 +1,116 @@
+body {
+    background-color: #e8d8c5;
+    background-size: cover, auto;;
+    height: 1000px;
+
+}
+.caixa {
+    padding: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #646068;
+    font-style: normal;
+    font-family: 'Courier New';
+    font-weight: 500;
+    font-size: 18px;
+    letter-spacing: -2px;
+
+
+}
+
+#imagem {
+    width: 95%;
+    height: 30%;
+}
+
+#imagem2 {
+    width: 150px;
+    height:100px;
+    margin: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+.principal {
+    font-style: normal;
+    text-transform: uppercase;
+    font-family: 'Courier New';
+    font-size: 30px;
+    font-weight: 300;
+    background: #e8d8c5;
+    text-align: center;
+    color: #646068;
+    margin: 20px;
+}
+.apresentacao {
+    padding: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #8e5248;
+    font-style: normal;
+    font-family: 'Courier New';
+    font-weight: bold;
+    font-size: 15px;
+    letter-spacing: 2px;
+    border: 4px solid #646068;
+    display: flex;
+    border-radius: 20px;
+    margin: 0 auto; 
+    max-width: 600px;   
+}
+
+.imagem {
+    width: 120px;
+    height: auto; 
+    padding: 30px;
+}
+.container {
+    display: flex;
+    align-items: center; 
+    margin: auto;
+    padding: 30px;
+    max-width: 700px;
+}
+
+figure {
+    margin-right: 10px;
+}
+
+figcaption {
+    text-align: center;
+    color: #8e5248;
+    font-size: 30px;
+    margin-top: 0px;
+}
+
+.Quadrado {
+    width: 95%;
+    height: 200px;
+    background-color: #646068;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 20px;
+}
+.texto2 {
+    color: #e8d8c5;
+    font-size: 20px;
+}
+
+.gif {
+    padding: 0px;
+    text-align: center;
+}
+.raposa {
+    width: 300px; 
+    padding: 0px;
+}   
+.texto {
+    font-size: 30px;
+    color: #8e5248;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+
+}
